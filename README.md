@@ -14,5 +14,13 @@ This work is (c) by the following authors:
 - Edison Pignaton de Freita, UFRGS
 - Carlos Eduardo Pereira, UFRGS
 
-### Licence
-This is licensed under a Creative Commons Attribution 1.0 International License.
+### Reference
+- "IEEE Standard Ontologies for Robotics and Automation," in IEEE Std 1872-2015, vol., no., pp.1-60, 10 April 2015, doi: 10.1109/IEEESTD.2015.7084073.
+- Bermudez-Edo, M., Elsaleh, T., Barnaghi, P., & Taylor, K. (2016, July). IoT-Lite: a lightweight semantic model for the Internet of Things. In 2016 INTL IEEE conferences on ubiquitous intelligence & computing, advanced and trusted computing, scalable computing and communications, cloud and big data computing, internet of people, and smart world congress (uic/atc/scalcom/cbdcom/iop/smartworld) (pp. 90-97). IEEE.
+- Rijgersberg, H., Van Assem, M., & Top, J. (2013). Ontology of units of measure and related concepts. Semantic Web, 4(1), 3-13.
+- Compton, M., Barnaghi, P., Bermudez, L., Garcia-Castro, R., Corcho, O., Cox, S., ... & Taylor, K. (2012). The SSN ontology of the W3C semantic sensor network incubator group. Journal of Web Semantics, 17, 25-32.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+
